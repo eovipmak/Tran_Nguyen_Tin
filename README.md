@@ -3,5 +3,6 @@
 ### Chuyên nghành Truyền thông và Mạng máy tính
 <img src="https://i.imgur.com/BrCetai.jpg">
 [MY CV](https://www.tntin.id.vn)
+
 *Hiện đang trong quá trình thực tập tại Công ty TNHH Vinahost.*
   
