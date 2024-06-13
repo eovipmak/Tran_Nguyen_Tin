@@ -24,7 +24,7 @@ Nhân Linux (kernel) là thành phần cốt lõi của hệ điều hành là l
 
 ![Tìm hiểu về cấu trúc hệ điều hành Linux](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.002.jpeg)
 
-### 1. Chọn Distro Linux
+### 2. Chọn Distro Linux
 
 Sử dụng Linux bạn có thể nghe thấy rất nhiều bản phân phối Linux khác nhau như Ubuntu, Debian, Fedora, Red Hat … (Xem danh sách hàng trăm Distro phổ biến nhất gần đây tại distrowatch) Điều này làm cho việc mới tiếp cận Linux có vẻ lúng túng không biết chọn bản phân phối nào. Mỗi bản phân phối có những đặc tính khác nhau, có thể phân chia để lựa chọn theo ba tiêu chí:
 
@@ -38,7 +38,7 @@ Sử dụng Linux bạn có thể nghe thấy rất nhiều bản phân phối L
 
 Bản phân phối linux theo mô hình hỗ trợ: Một số distro được bảo trì, hỗ trợ bởi cộng đồng tình nguyện (Debian, CentOS, Fedora) nhưng cũng có các distro được hỗ trợ bởi các công ty thương mại (RHEL, Ubuntu), dù phần mềm vẫn là nguồn mở nhưng bạn cần trả tiền cho các dịch vụ hỗ trợ.
 
-1. **Một số Distro Linux**
+### 3. Một số Distro Linux
 
 Trước tiên lưu ý có những Distro kế thừa (dựa trên) một Distro khác như CentOS dựa trên Red Hat, Ubuntu dựa trên Debian. Có điều này bởi vì các phần mềm nguồn mở được phép dùng lại bởi các lập trình viên (developer). Các lập trình viện có thể chọn một số tính năng từ một distro và từ đó tạo ra một distro mới, có nhiều distro linux vì có nhiều nhóm lập trình viên tạo ra từ việc kế thừa một distro khác, đặt một tên mới và thêm vào một vài tính năng, thường thì các distro kế thừa giữ các tính năng gần gũi với distro gốc.
 
@@ -52,9 +52,9 @@ Trước tiên lưu ý có những Distro kế thừa (dựa trên) một Distro
 
 ![https://camo.githubusercontent.com/bff71a33b2d4fb25d95564c3df81c0f73af6880076c7d3114b5c1d845adcb7d0/687474703a2f2f696d6775722e636f6d2f675870414d67592e706e67](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.003.png)
 
-1. **CENTOS END OF LIFE VÀ CÁC DISTRO THAY THẾ**
-1. **Tóm tắt sự kiện**
-1. **Sự ra đời**
+## III. CENTOS END OF LIFE VÀ CÁC DISTRO THAY THẾ
+### 1. Tóm tắt sự kiện
+#### a. Sự ra đời
 
 Trước khi được biết đến dưới tên hiện tại, CentOS có nguồn gốc là một sản phẩm của CAOS Linux, được khởi động bởi Gregory Kurtzer. Tháng 6/2006, David Parsley, nhà phát triển chính của Tao Linux (một nhân bản khác của RHEL), thông báo ngừng phát triển Tao Linux chuyển sang phát triển CentOS. Người dùng Tao chuyển sang CentOS thông qua yum update.
 
@@ -68,7 +68,7 @@ Bắt đầu với phiên bản 7.0, CentOS số phiên bản cũng bao gồm m�
 
 Từ giữa 2006, bắt đầu với phiên bản 4.4 (chính thức được gọi là Red Hat Enterprise Linux 4.0 update 4, Red Hat đã thông qua một quy ước phiên bản giống hệt của CentOS (ví dụ, RHEL 4.5 hay RHEL 6.5).
 
-1. **End of life**
+#### 1. End of life
 
 CentOS, một trong những hệ điều hành Linux phổ biến nhất trên thế giới, đã chính thức thông báo về việc kết thúc chu kỳ hoạt động (EOL) của CentOS 8 vào tháng 12 năm 2021. Quyết định này đã gây ra sự chú ý lớn trong cộng đồng người dùng Linux và người quản trị hệ thống do CentOS được sử dụng rộng rãi trong các môi trường sản xuất và doanh nghiệp.
 
@@ -76,39 +76,39 @@ CentOS, một trong những hệ điều hành Linux phổ biến nhất trên t
 
 Với việc CentOS kết thúc chu kỳ hoạt động, người dùng sẽ không còn nhận được bất kỳ bản vá bảo mật hoặc cập nhật nào từ CentOS Project. Điều này tạo ra một lỗ hổng bảo mật lớn, đặc biệt là đối với các doanh nghiệp và tổ chức có yêu cầu cao về tính bảo mật và ổn định hệ thống.
 
-1. **Các Distro Linux thay thế**
-1. **Alpine Linux**
+### 2. **Các Distro Linux thay thế**
+#### a. **Alpine Linux**
 
 ![whitehat.vn/attachments/alpine_logo-png.4150/](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.005.png)
 
 Alpine Linux là một bản phân phối Linux hướng đến sự tối giản, cả về không gian và phạm vi, cũng như tính bảo mật cao hơn. Phương tiện cài đặt mặc định chỉ có 133 MB. Alpine nổi lên sau khi Docker được phát triển bởi vì nó nhỏ và nhẹ, thường được sử dụng để làm docker image.
 
-1. **Rocky Linux**
+#### b. **Rocky Linux**
 
 ![Rocky Linux là gì? Một hệ điều hành Linux thay thế cho CentOS](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.006.jpeg)
 
 Rocky Linux là một dự án được tạo ra nhằm mục đích cung cấp một giải pháp thay thế hoàn toàn cho CentOS. Dự án này được tạo ra bởi Gregory Kurtzer, người sáng lập của CentOS cũ, với mục tiêu là tạo ra một phiên bản ổn định và tương thích hoàn toàn với RHEL.
 
-1. **CentOS Stream**
+#### c. **CentOS Stream**
 
 ![CentOS Stream: Everything You Need to Know About it](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.007.png)
 
 Mặc dù CentOS Stream không phải là một lựa chọn thay thế trực tiếp cho CentOS 8, nhưng nó vẫn được Red Hat khuyến khích là một nền tảng thích hợp cho các dự án phát triển và kiểm tra mới. Với CentOS Stream, người dùng có thể tiếp tục nhận được các cập nhật và tính năng mới trước khi chúng được triển khai vào RHEL.
 
-1. **Ubuntu Server**
+#### d. **Ubuntu Server**
 
 ![Ubuntu Server chuyên nghiệp cho hệ thống Server](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.008.jpeg)
 
 Ubuntu Server là một lựa chọn hợp lý cho những người dùng muốn thử nghiệm một hệ điều hành mới. Với một cộng đồng lớn và sự hỗ trợ từ Canonical, Ubuntu Server cung cấp một môi trường ổn định và đáng tin cậy cho các ứng dụng doanh nghiệp và cá nhân.
 
-1. **Lưu ý trước khi chuyển đổi**
-1. **Đánh Giá Nhu Cầu và Yêu Cầu Của Bạn**
+### 3. **Lưu ý trước khi chuyển đổi**
+#### a. **Đánh Giá Nhu Cầu và Yêu Cầu Của Bạn**
 
 Trước thông tin CentOS End of life như vậy, hẳn là sẽ có nhiều trường hợp quyết định chuyển đổi sang một hệ điều hành mới cho phù hợp, quan trọng là đánh giá nhu cầu và yêu cầu cụ thể của bạn.
 
 Xác định các ứng dụng và dịch vụ quan trọng mà hệ thống của bạn đang chạy và đảm bảo rằng hệ điều hành mới có thể đáp ứng được chúng.
 
-1. **Lập Kế Hoạch Chuyển Đổi**
+#### b. **Lập Kế Hoạch Chuyển Đổi**
 
 Sau khi đã xác định được hệ điều hành mới phù hợp, bạn cần lập kế hoạch chuyển đổi một cách cẩn thận.
 
@@ -116,7 +116,7 @@ Sau khi đã xác định được hệ điều hành mới phù hợp, bạn c�
 
 Thử nghiệm trước khi triển khai trên một môi trường sản xuất giúp giảm thiểu rủi ro và đảm bảo một chuyển đổi suôn sẻ
 
-1. **Đảm Bảo Tương Thích**
+#### c. **Đảm Bảo Tương Thích**
 
 Khi chuyển đổi sang một hệ điều hành mới, đảm bảo rằng các ứng dụng và dịch vụ của bạn hoạt động một cách mượt mà trên nền tảng mới.
 
