@@ -2,5 +2,6 @@
 ## Khoa Công nghệ Thông Tin
 ### Chuyên nghành Truyền thông và Mạng máy tính
 <img src="https://i.imgur.com/BrCetai.jpg">
-Gián tiếp: [Github](https://github.com/lucthienphong1120)
+[MY CV](https://www.tntin.id.vn)
+*Hiện đang trong quá trình thực tập tại Công ty TNHH Vinahost.*
   
