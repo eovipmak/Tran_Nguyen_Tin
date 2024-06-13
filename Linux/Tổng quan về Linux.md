@@ -112,7 +112,7 @@ Ubuntu Server là một lựa chọn hợp lý cho những người dùng muốn
 [Ubuntu Server](https://ubuntu.com/)
 
 ### 3. **Lưu ý trước khi chuyển đổi**
-#### a. **Đánh Giá Nhu Cầu và Yêu Cầu Của Bạn**
+#### a. **Đánh Giá Nhu Cầu và Yêu Cầu**
 
 Trước thông tin CentOS End of life như vậy, hẳn là sẽ có nhiều trường hợp quyết định chuyển đổi sang một hệ điều hành mới cho phù hợp, quan trọng là đánh giá nhu cầu và yêu cầu cụ thể của bạn.
 
