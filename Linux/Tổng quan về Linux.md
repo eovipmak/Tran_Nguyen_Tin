@@ -1,6 +1,6 @@
-﻿**TỔNG QUAN VỀ HỆ ĐIỀU HÀNH LINUX**
+# ﻿TỔNG QUAN VỀ HỆ ĐIỀU HÀNH LINUX
 
-1. **LINUX LÀ GÌ**
+## 1. LINUX LÀ GÌ ##
 
 Linux là một họ các hệ điều hành tự do mẫ nguồn mở tương tự Unix và dựa trên Linux kernel, một hạt nhân hệ điều hành được phát hành lần đầu tiên vào ngày 17 tháng 9 năm 1991, bởi Linus Torvalds. Mặc dù có khá nhiều tranh cãi về việc phát âm Linux, nhưng theo như Linus chia sẻ: "Tôi không quá bận tâm việc mọi người phát âm tên tôi như thế nào, nhưng Linux luôn là Lih-nix". Linux thường được đóng gói thành các bản phân phối Linux. Nó có lẽ là một ví dụ nổi tiếng nhất của phần mềm tự do và của việc phát triển mã nguồn mở.
 
@@ -14,17 +14,17 @@ Linux cũng chạy trên các hệ thống nhúng, tức là các thiết bị c
 
 Linux là một trong những ví dụ nổi bật nhất của phần mềm tự do nguồn mở và của việc phát triển mã nguồn mở. Mã nguồn có thể được dùng, sửa đổi và phân phối - thương mại hoặc phi thương mại - bởi bất kỳ ai theo các điều khoản của giấy phép tương ứng, ví dụ như GNU General Public License. 
 
-1. **DISTRO LINUX**
+## 2. DISTRO LINUX
 
 Distro là từ viết tắt thay thế cho Linux Distribution - bản phân phối của Linux - là một hệ điều hành được tập hợp từ nhiều phần mềm dựa trên nhân Linux (Linux Kernel) và thường có một hệ thống quản lý các gói tin.
 
-1. **Nhân Linux ( Linux Kernel)**
+### 1. Nhân Linux ( Linux Kernel)
 
 Nhân Linux (kernel) là thành phần cốt lõi của hệ điều hành là lớp cho phép hệ thống quản lý, điều khiển, giao tiếp với các phần cứng của máy tính. Kernel có chứa phần mềm cho phép bạn sử dụng được ổ cứng, mạng, RAM hay các phần cứng khác. Hệ thống Linux dựa theo UNIX, gọi là GNU/Linux. Nhân Linux hiện nay được phát triển bởi cộng đồng nguồn mở dựa trên nhân Linux mới được phát triển bởi Linus Torvalds (phát hình năm 1991).
 
 ![Tìm hiểu về cấu trúc hệ điều hành Linux](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.002.jpeg)
 
-1. **Chọn Distro Linux**
+### 1. Chọn Distro Linux
 
 Sử dụng Linux bạn có thể nghe thấy rất nhiều bản phân phối Linux khác nhau như Ubuntu, Debian, Fedora, Red Hat … (Xem danh sách hàng trăm Distro phổ biến nhất gần đây tại distrowatch) Điều này làm cho việc mới tiếp cận Linux có vẻ lúng túng không biết chọn bản phân phối nào. Mỗi bản phân phối có những đặc tính khác nhau, có thể phân chia để lựa chọn theo ba tiêu chí:
 
