@@ -16,7 +16,7 @@ Linux là một trong những ví dụ nổi bật nhất của phần mềm t�
 
 ## 2. DISTRO LINUX
 
-Distro là từ viết tắt thay thế cho Linux Distribution - bản phân phối của Linux - là một hệ điều hành được tập hợp từ nhiều phần mềm dựa trên nhân Linux (Linux Kernel) và thường có một hệ thống quản lý các gói tin.
+Distro là từ viết tắt thay thế cho Linux Distribution - bản phân phối của Linux - là một hệ điều hành được tập hợp từ nhiều phần mềm dựa trên nhân Linux (Linux Kernel) và thường có một hệ thống quản lý các gói tin. Linux được phát hành dưới dạng mã nguồn mở cho nên đó là lý do tại sao hiện tại có rất nhiều distro (bản phối của Linux). Distro hiểu cơ bản là các hệ điều hành phát triển dựa trên nhân Linux ban đầu. Mỗi Distro sẽ có ưu nhược điểm riêng và được sinh ra để phục vụ một mục đích khác nhau.
 
 ### 1. Nhân Linux ( Linux Kernel)
 
@@ -75,6 +75,8 @@ CentOS, một trong những hệ điều hành Linux phổ biến nhất trên t
 **Nguyên nhân chính** dẫn đến quyết định kết thúc chu kỳ hoạt động của CentOS 8 là sự thay đổi chiến lược của CentOS Project sau khi Red Hat, công ty mẹ của CentOS, công bố chương trình CentOS Stream vào năm 2019. CentOS Stream được xác định là một phiên bản trung gian giữa Fedora và Red Hat Enterprise Linux (RHEL), với mục tiêu là cung cấp cho người dùng một nền tảng phát triển và kiểm tra các tính năng mới trước khi chúng được triển khai vào RHEL. Điều này đã dẫn đến sự phân tán của cộng đồng CentOS và sự bất mãn từ phía người dùng do mất đi tính ổn định và dự đoán trong việc cập nhật.
 
 Với việc CentOS kết thúc chu kỳ hoạt động, người dùng sẽ không còn nhận được bất kỳ bản vá bảo mật hoặc cập nhật nào từ CentOS Project. Điều này tạo ra một lỗ hổng bảo mật lớn, đặc biệt là đối với các doanh nghiệp và tổ chức có yêu cầu cao về tính bảo mật và ổn định hệ thống.
+
+[CentOS EOL - Redhat](https://www.redhat.com/en/topics/linux/centos-linux-eol)
 
 ### 2. **Các Distro Linux thay thế**
 #### a. **Alpine Linux**
