@@ -6,7 +6,7 @@ Linux là một họ các hệ điều hành tự do mẫ nguồn mở tương t
 
 Các bản phân phối bao gồm nhân Linux và các thư viện và phần mềm hệ thống hỗ trợ, nhiều thư viện được cung cấp bởi GNU Project. Nhiều bản phân phôi Linux sử dụng từ "Linux" trong tên của họ, nhưng Free Software Foundation sử dụng tên GNU/Linux để nhấn mạnh tầm quan trọng của phần mềm GNU, gây ra một số tranh cãi.
 
-![Linux – Wikipedia tiếng Việt](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.001.png)
+<img src="https://i.imgur.com/oEhNmMW.png">
 
 Linux ban đầu được phát triển cho các máy tính cá nhân dựa trên kiến trúc Intel x86, nhưng sau đó đã được ported sang nhiều nền tảng hơn bất kỳ hệ điều hành nào khác. Do sự thống trị của Android trên điện thoại thông minh, Linux cũng có cơ sở được cài đặt lớn nhất trong tất cả các hệ điều hành có mục đích chung. Mặc dù nó chỉ được sử dụng bởi khoảng 2.3% máy tính để bàn, nhưng Chromebook, chạy Chrome OS dựa trên nhân Linux, thống trị thị trường giáo dục K–12 của Mỹ và chiếm gần 20% doanh số notebook dưới 300 đô la ở Mỹ. Linux là hệ điều hành hàng đầu trên các máy chủ (hơn 96,4% trong số 1 triệu hệ điều hành máy chủ web hàng đầu là Linux), dẫn đầu các hệ thống big iron như các hệ thống mainframe, và là hệ điều hành duy nhất được sử dụng trên các siêu máy tính TOP500 (kể từ tháng 11 năm 2017, đã dần dần loại bỏ tất cả các đối thủ cạnh tranh).
 
