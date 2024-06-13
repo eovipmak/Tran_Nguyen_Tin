@@ -83,11 +83,15 @@ Với việc CentOS kết thúc chu kỳ hoạt động, người dùng sẽ kh�
 
 Alpine Linux là một bản phân phối Linux hướng đến sự tối giản, cả về không gian và phạm vi, cũng như tính bảo mật cao hơn. Phương tiện cài đặt mặc định chỉ có 133 MB. Alpine nổi lên sau khi Docker được phát triển bởi vì nó nhỏ và nhẹ, thường được sử dụng để làm docker image.
 
+[Alpine Linux](https://alpinelinux.org/)
+
 #### b. **Rocky Linux**
 
 ![Rocky Linux là gì? Một hệ điều hành Linux thay thế cho CentOS](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.006.jpeg)
 
 Rocky Linux là một dự án được tạo ra nhằm mục đích cung cấp một giải pháp thay thế hoàn toàn cho CentOS. Dự án này được tạo ra bởi Gregory Kurtzer, người sáng lập của CentOS cũ, với mục tiêu là tạo ra một phiên bản ổn định và tương thích hoàn toàn với RHEL.
+
+[Rocky Linux](https://rockylinux.org/)
 
 #### c. **CentOS Stream**
 
@@ -95,11 +99,15 @@ Rocky Linux là một dự án được tạo ra nhằm mục đích cung cấp 
 
 Mặc dù CentOS Stream không phải là một lựa chọn thay thế trực tiếp cho CentOS 8, nhưng nó vẫn được Red Hat khuyến khích là một nền tảng thích hợp cho các dự án phát triển và kiểm tra mới. Với CentOS Stream, người dùng có thể tiếp tục nhận được các cập nhật và tính năng mới trước khi chúng được triển khai vào RHEL.
 
+[CentOS Stream](https://centos.org/centos-stream/)
+
 #### d. **Ubuntu Server**
 
 ![Ubuntu Server chuyên nghiệp cho hệ thống Server](Aspose.Words.211163ac-2141-4582-a178-5012e719b23a.008.jpeg)
 
 Ubuntu Server là một lựa chọn hợp lý cho những người dùng muốn thử nghiệm một hệ điều hành mới. Với một cộng đồng lớn và sự hỗ trợ từ Canonical, Ubuntu Server cung cấp một môi trường ổn định và đáng tin cậy cho các ứng dụng doanh nghiệp và cá nhân.
+
+[Ubuntu Server](https://ubuntu.com/)
 
 ### 3. **Lưu ý trước khi chuyển đổi**
 #### a. **Đánh Giá Nhu Cầu và Yêu Cầu Của Bạn**
@@ -121,6 +129,9 @@ Thử nghiệm trước khi triển khai trên một môi trường sản xuất
 Khi chuyển đổi sang một hệ điều hành mới, đảm bảo rằng các ứng dụng và dịch vụ của bạn hoạt động một cách mượt mà trên nền tảng mới.
 
 Kiểm tra tính tương thích của phần mềm và phần cứng trước khi thực hiện triển khai có thể giúp bạn tránh được các vấn đề không mong muốn sau này.
+
+[Hướng dẫn chuyển từ CentOS sang Ubuntu](https://phoenixnap.com/kb/migrate-centos-to-ubuntu)
+
 
 *Chúc bạn đọc một ngày vui vẻ!*
 
